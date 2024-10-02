@@ -4,5 +4,8 @@ You can listen my resume below.
 
 
 
-https://github.com/user-attachments/assets/bafec52c-850f-463f-8196-206d660d3deb
+https://github.com/user-attachments/assets/6aa2e3f1-fbe5-428c-9bfe-635fb3df72a3
+
+
+
 
