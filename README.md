@@ -1,4 +1,6 @@
 ### Hi there 👋
-I still have to update my github readme, pls don't mind any un-finished ReadMe's or Project Descriptions.
+I am Abhijith Kunchati. I am a Software Development Engineer.
+I am currently pursuing my Masters in Computer Science at University of Southern California. 
+I am intrested in Functional Programming and Distributed Systems. 
 
 
