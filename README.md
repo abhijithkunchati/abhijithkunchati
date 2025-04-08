@@ -2,7 +2,8 @@
 > Abhijith Kunchati
 > Masters @ USC
 > Software Develeopment Engineer
-> Haskell | Distributed Systems | Computer Networks
+> Distributed Systems | Computer Networks | Operating Systems
+> Go | Java | Haskell
 ```
 
 
